@@ -2,6 +2,7 @@
 Post issues/suggestions as they arise
 
 Please try looking for the following things:
+- Any partner animations where some meshes are showing which shouldn't be there (main ones to look out for would be Goombario speech bubbles)
 - Any situations where the partners can be damaged and die (this should never happen!)
 - Try breaking the partner abilities! Their implementations are complex, so they're bound to break, so let's do it now!
 - Try messing up the constraints between Paper Mario and the partners by hitting Paper Mario on the abilities where they are connected and work together (like both Flurrie's abilities)
