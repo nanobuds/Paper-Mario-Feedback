@@ -13,6 +13,5 @@ Please try looking for the following things:
 - Any visual bugs with the Paper Luigi or Paper Dr. Mario alts?
 
 Known Bugs/issues:
-- Mowz launch angle will be inconsistent due to it depending on which pikmin color she spawns as. This will be fixed once we figure out how to force the partners to a specific color
 - Final Smash doesn't do anything
 - Lots of missing sound effects
