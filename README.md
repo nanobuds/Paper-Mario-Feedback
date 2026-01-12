@@ -10,7 +10,7 @@ Please try looking for the following things:
 - Try messing up the constraints between Paper Mario and the partners by hitting Paper Mario during the abilities where they are connected and work together (like both Flurrie's abilities)
 - Are there any Paper Mario moves that cancel the partner abilities that work on their own (like Lady Bow)? The ones we found and fixed only canceled the abilities when Paper Mario was near the partner
 - Do the partners ever die if they're too far from Paper Mario from too long? There was a fix added for this, but is a little under tested
-- Any visual bugs with the Paper Luigi or Paper Dr. Mario alts?
+- Any visual bugs with the m64, Paper Luigi or Paper Dr. Mario alts?
 
 Known Bugs/issues:
 - Final Smash doesn't do anything
