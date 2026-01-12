@@ -16,3 +16,4 @@ Please try looking for the following things:
 Known Bugs/issues:
 - Final Smash doesn't do anything
 - Lots of missing sound effects
+- Paper Luigi doesn't have a unique voice yet
