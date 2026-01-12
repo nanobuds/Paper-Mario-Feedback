@@ -11,6 +11,7 @@ Please try looking for the following things:
 - Are there any Paper Mario moves that cancel the partner abilities that work on their own (like Lady Bow)? The ones we found and fixed only canceled the abilities when Paper Mario was near the partner
 - Do the partners ever die if they're too far from Paper Mario from too long? There was a fix added for this, but is a little under tested
 - Any visual bugs with the N64, Paper Luigi or Paper Dr. Mario alts?
+- Any lag while multiple Paper Mario's are in the game? 
 
 Known Bugs/issues:
 - Final Smash doesn't do anything
