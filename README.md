@@ -12,6 +12,7 @@ Please try looking for the following things:
 - Do the partners ever die if they're too far from Paper Mario from too long? There was a fix added for this, but is a little under tested
 - Any visual bugs with the N64, Paper Luigi or Paper Dr. Mario alts?
 - Any lag while multiple Paper Mario's are in the game? 
+- Any animations look bad with Paper Luigi? Mostly watch his feet, they may "float" from his body. He already has some custom animations to fix this, but I may have missed some.
 
 Known Bugs/issues:
 - Final Smash doesn't do anything
